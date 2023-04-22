@@ -104,9 +104,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Willkommen auf Warriors Of The Republic!",
-"Wir wünschen dir Viel Spaß auf Warriors Of The Republic",
-"Danke fürs Spielen auf Warriors Of The Republic!",
+"Willkommen auf The Beginn Of The Republic!",
+"Wir wünschen dir Viel Spaß auf The Beginn Of The Republic",
+"Danke fürs Spielen auf The Beginn Of The Republic!",
 "Halte dich an die Regeln!",
 "Schau doch gerne mal bei unserem Discord vorbei!"
 ];
