@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/wotrlogo01.png";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Warriors Of The Republic";
+var l_serverName = "The Beginn Of The Republic";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -54,11 +54,9 @@ var l_bgImages = [
 	"backgrounds/images/touhou02.png",
 	"backgrounds/images/touhou03.png",
 	"backgrounds/images/touhou04.png",
-	"backgrounds/images/touhou05.jpg",
-	"backgrounds/images/touhou05.jpg",
-	"backgrounds/images/touhou06.jpg",
-	"backgrounds/images/touhou07.jpg",
-	"backgrounds/images/touhou08.jpg",
+	"backgrounds/images/touhou05.png",
+	"backgrounds/images/touhou05.png",
+	"backgrounds/images/touhou06.png",
 ];
 
 /*Random background images order?*/
@@ -91,10 +89,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/headup.ogg", name: "Star Wars - Head Up AMV"},
-	{ogg: "songs/playwithfire.ogg", name: "Star Wars - Play With Fire AMV"},
-	{ogg: "songs/firethescore.ogg", name: "Star Wars - Fire AMV"},
-	{ogg: "songs/bringthafire.ogg", name: "Star Wars - Bring That Fire AMV"},
+	{ogg: "songs/headup.ogg", name: "Keine Musik, Chill dein Leben"},
 ];
 
 /*Random music order?*/
